@@ -256,7 +256,6 @@ $time = $tim1[0];
 
 if($time == "4"){
 sleep(300);
-}
 goto b;
 }
 
